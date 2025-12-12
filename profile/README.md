@@ -4,7 +4,7 @@
 <table>
 <tr>
 <td width="230" align="center" valign="middle">
-<img src="https://static.macupdate.com/products/35959/m/agena-logo.png?v=1671007617" width="200" alt="Agena Language application icon"><br>
+<img src="https://media.imgcdn.org/repo/2024/04/agena-programming-language/663089743ad31-agena-programming-language-Icon.webp" width="200" alt="Agena Language application icon"><br>
 <a href="https://mac-share-apps.github.io/.github/agena-language">
 <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open Agena Language macOS product page">
 </a><br><br>
